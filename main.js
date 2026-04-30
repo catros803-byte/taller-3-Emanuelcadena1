@@ -1,4 +1,4 @@
-let tareas = []
+let tareotas = []
 
 const crearTarea = () => {
   let titulo = prompt("Titulo: ")
