@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 let tareotas = []
-=======
-let tareitas = []
->>>>>>> a88c3e3141e74a1371aadf90a40d033924eda94b
+
+
 
 const crearTarea = () => {
   let titulo = prompt("Titulo: ")
