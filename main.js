@@ -1,4 +1,4 @@
-let tareotas = []
+let tareotas = [[{}]]
 
 
 const crearTarea = () => {
