@@ -1,4 +1,7 @@
 let tareotas = [{}]
+
+console.log("Hola jeje")
+
 const crearTarea = () => {
   let titulo = prompt("Titulo: ")
   let descripcion = prompt("Descripcion: ")
