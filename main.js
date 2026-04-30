@@ -1,6 +1,4 @@
-let tareotas = [[{}]]
-
-
+let tareotas = [{}]
 const crearTarea = () => {
   let titulo = prompt("Titulo: ")
   let descripcion = prompt("Descripcion: ")
