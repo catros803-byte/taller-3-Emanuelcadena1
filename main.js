@@ -1,5 +1,11 @@
 let tareotas = [{}]
 
+
+
+let boss =(2,5) => {
+  return 2 + 5
+}
+
 console.log("Hola jeje")
 
 const crearTarea = () => {
